@@ -127,3 +127,7 @@ VPN- DON’T USE A VPN THAT REQUIRES YOUR EMAIL
 [BrowserLeaks](https://browserleaks.com/)
 [Check to see if your email has been leaked with](https://haveibeenpwned.com/)
 [VirusTotal-Analyze suspicious files and URL](https://www.virustotal.com/gui/home/upload)
+[The BIP39 (Mnemonic Recovery Seed Phrase) Wallet List](https://www.blockplate.com/blogs/blockplate/list-of-bip39-wallets-mnemonic-seed)
+[What is a Mnemonic Phrase and BIP39? (2021 Update)](https://privacypros.io/wallets/mnemonic-phrase)
+[Deference Between EAL 1-7 in Common Criteria Standard?](https://security.stackexchange.com/questions/77161/deference-between-eal-1-7-in-common-criteria-standard)
+[Evaluation Assurance Level - Wikipedia](https://en.wikipedia.org/wiki/Evaluation_Assurance_Level)
