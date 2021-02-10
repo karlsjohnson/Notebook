@@ -1,8 +1,3 @@
-If something is wrong or misleading, feel free to comment and I'll edit the post. Obviously in 2 sentences is hard to describe the whole project idea, but I tried my best.
-
-
-
-Bitcoin (BTC): the original. According to the creator (or creators?) Satoshi Nakamoto, it was created to allow “online payments to be sent directly from one party to another without going through a financial institution.”
 
 Ethereum (ETH): Ethereum is the wonder child of crypto, acts as an infrastructure for most decentralized applications. Introduces smart contracts, which are like programs with specific procedures that, once deployed, no one can change.
 
