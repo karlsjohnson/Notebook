@@ -1,5 +1,9 @@
 # Crypto Links
 
+## News
+
+- [Bitcoin Mastodon](https://bitcoinhackers.org/about)
+
 ## Learn
 
 - [Gemini Cryptopedia](https://www.gemini.com/cryptopedia)
@@ -11,15 +15,32 @@
 - [CoinMarketCap Earn](https://coinmarketcap.com/earn/)
 - [MOOC - Introduction to Digital Currencies](https://www.unic.ac.cy/blockchain/free-mooc/#tab-courseoutline)
 
-Articles
+## Learn Articles
 
 - [Eleven Free Courses To Learn Bitcoin, Blockchain And Cryptocurrencies](https://www.forbes.com/sites/rogerhuang/2019/08/12/eleven-free-courses-to-learn-bitcoin-blockchain-and-cryptocurrencies/?sh=605d3b2450a7)
 - [https://medium.datadriveninvestor.com/the-5-best-guides-top-tutorials-free-tools-to-learn-how-to-trade-crypto-f4ebce6e5b1b?gi=9ce730768e30](https://medium.datadriveninvestor.com/the-5-best-guides-top-tutorials-free-tools-to-learn-how-to-trade-crypto-f4ebce6e5b1b?gi=9ce730768e30)
 - [10 Best Cryptocurrency Courses &amp; Classes [2021 FEBRUARY]](https://digitaldefynd.com/best-courses-for-learning-bitcoin-earning-mining-and-trading/)
 
-## DEXs
+## Learn People
 
-Decentralized Exchanges
+[CryptoTips Newsletter](https://learningcrypto.com)
+[CryptoTips-Heidi Twitter](https://twitter.com/blockchainchick)
+[CryptoTips-Toby Twitter](https://twitter.com/juststacksats)
+[CryptoTips-Instagram](https://www.instagram.com/realcryptotips/)
+[CryptoTips-LBRY](https://lbry.tv/@Crypto-Tips:b )
+
+## Learn Research
+
+- [Coingecko](https://www.coingecko.com/en)
+- [CoinMarketCap](https://coinmarketcap.com/)
+- [CryptoCompare](https://www.cryptocompare.com/)
+- [Live Coin Watch](https://www.livecoinwatch.com/)
+- [coinlib](https://coinlib.io/)
+- [Trading View](https://www.tradingview.com/)
+- [BitInfoCharts](https://bitinfocharts.com/)
+- [CryptoPanic](https://cryptopanic.com)
+
+## Exchanges Decentralized
 
 - [**bisq**](https://bisq.network/) - ideal
 - [**blockdx**](https://blockdx.com)
@@ -40,6 +61,26 @@ Decentralized Exchanges
 - [Uniswap](https://app.uniswap.org)
 - [Blocknet (Block DX)](https://docs.blocknet.co/blockdx/setup/)
 - [Bisq](https://bisq.network)
+
+## Exchange Centralized
+
+- [Coinbase](https://www.coinbase.com)
+- [Kraken](https://www.kraken.com/)
+- [Gemini](https://www.gemini.com/)
+- [Bitstamp](https://www.bitstamp.com/)
+- [Bittrex](https://www.bittrex.com/)
+- [CEX.io](https://cex.io/)
+- [Binance](https://www.binance.com/en/)
+- [BinanceUS](https://www.binance.us/en/login)
+- [BinanceDEX](https://www.binance.org/en)
+- [Poloniex](https://www.poloniex.com/)
+- [CoinMama](https://www.coinmama.com)
+
+## Decentralized Finance
+
+- [LoanScan: Compare High Interest Accounts](https://loanscan.io/)
+- [DeFi Safety](https://defisafety.com/)
+- [DeFiPrime - Best Decentralized Finance Projects](https://defiprime.com/)
 
 ## Wallets
 
@@ -63,31 +104,6 @@ Decentralized Exchanges
   - [Cobo Wallet website](https://cobo.com/hardware-wallet/cobo-vault)
   - [Ngrave website](https://www.ngrave.io/ )
   
-### CEX
-
-Centralized Exchanges
-
-- [Coinbase](https://www.coinbase.com)
-- [Kraken](https://www.kraken.com/)
-- [Gemini](https://www.gemini.com/)
-- [Bitstamp](https://www.bitstamp.com/)
-- [Bittrex](https://www.bittrex.com/)
-- [CEX.io](https://cex.io/)
-- [BinanceUS](https://www.binance.us/en/login)
-- [BinanceDEX](https://www.binance.org/en)
-- [Binance](https://www.binance.com/en)
-
-## Research
-
-- [Coingecko](https://www.coingecko.com/en)
-- [CoinMarketCap](https://coinmarketcap.com/)
-- [CryptoCompare](https://www.cryptocompare.com/)
-- [Live Coin Watch](https://www.livecoinwatch.com/)
-- [coinlib](https://coinlib.io/)
-- [Trading View](https://www.tradingview.com/)
-- [BitInfoCharts](https://bitinfocharts.com/)
-- [CryptoPanic](https://cryptopanic.com)
-
 ## Tax Software
 
 - [CryptoTrader.Tax](https://cryptotrader.tax/pricing)
@@ -107,44 +123,47 @@ Centralized Exchanges
 - [CoinTracker](https://www.cointracker.io/tax/2019/plans)
   - $189 1000
 
-## People
+## Privacy
 
-[CryptoTips Newsletter](https://learningcrypto.com)
-[CryptoTips-Heidi Twitter](https://twitter.com/blockchainchick)
-[CryptoTips-Toby Twitter](https://twitter.com/juststacksats)
-[CryptoTips-Instagram](https://www.instagram.com/realcryptotips/)
-[CryptoTips-LBRY](https://lbry.tv/@Crypto-Tips:b )
+- [Pidgin - Chat](https://pidgin.im/)
+- [Signal for Phone](https://www.signal.org/)
+- [Web Browsing:HTTPS Everywhere Browser Extension](https://www.eff.org/https-everywhere)
+- [Certbot- helps you have https for your website. Encrypted](https://certbot.eff.org/)
+- [Block trackers with Privacy Badge](https://privacybadger.org/)
+- [Email Encrypted Email only works if both parties have encrypted email accounts Tutanota](https://www.tutanota.com/)
+- [Protonmail](https://mail.protonmail.com/login)
+- VPN- DON’T USE A VPN THAT REQUIRES YOUR EMAIL
+- [Mullvad VPN - Privacy is a universal right](https://mullvad.net/en/)
+- [Private Internet Access](https://www.privateinternetaccess.com/)
+- [IPVanish VPN](https://www.ipvanish.com/)
+- [TorGuard](https://torguard.net/)
+- [VyprVPN](https://get.vyprvpn.com/)
+- [DNSleaktest](http://DNSleaktest.com)
+- [BrowserLeaks](https://browserleaks.com/)
+- [Check to see if your email has been leaked with](https://haveibeenpwned.com/)
+- [VirusTotal-Analyze suspicious files and URL](https://www.virustotal.com/gui/home/upload)
+- [The BIP39 (Mnemonic Recovery Seed Phrase) Wallet List](https://www.blockplate.com/blogs/blockplate/list-of-bip39-wallets-mnemonic-seed)
+- [What is a Mnemonic Phrase and BIP39? (2021 Update)](https://privacypros.io/wallets/mnemonic-phrase)
+- [Deference Between EAL 1-7 in Common Criteria Standard?](https://security.stackexchange.com/questions/77161/deference-between-eal-1-7-in-common-criteria-standard)
+- [Evaluation Assurance Level - Wikipedia](https://en.wikipedia.org/wiki/Evaluation_Assurance_Level)
 
-## DeFi
+## Program
 
-Decentralized Finance
+- [Alchemy Blockchain Platform](https://blog.alchemyapi.io/)
+- [Stacks2](https://stacks2.com/)
+- [Blockstream](https://blockstream.com/)
+  - We're now mirroring our social media posts to the free and open source social media network Mastodon via the http://bitcoinhackers.org instance. Find us at @Blockstream@bitcoinhackers.org!
+- [Handshake](https://handshake.org/)
+- [Sci-Hub](http://sci-hub.hns.hns.to/)
 
-- [LoanScan: Compare High Interest Accounts](https://loanscan.io/)
-- [DeFi Safety](https://defisafety.com/)
-- [DeFiPrime - Best Decentralized Finance Projects](https://defiprime.com/)
+## Coins
+
+- [ZCash](https://electriccoin.co/)
 
 
 
-## PRIVACY With Crypto
 
-[Pidgin - Chat](https://pidgin.im/)
-[Signal for Phone](https://www.signal.org/)
-[Web Browsing:HTTPS Everywhere Browser Extension](https://www.eff.org/https-everywhere)
-[Certbot- helps you have https for your website. Encrypted](https://certbot.eff.org/)
-[Block trackers with Privacy Badge](https://privacybadger.org/)
-[Email Encrypted Email only works if both parties have encrypted email accounts Tutanota](https://www.tutanota.com/)
-[Protonmail](https://mail.protonmail.com/login)
-VPN- DON’T USE A VPN THAT REQUIRES YOUR EMAIL
-[Mullvad VPN - Privacy is a universal right](https://mullvad.net/en/)
-[Private Internet Access](https://www.privateinternetaccess.com/)
-[IPVanish VPN](https://www.ipvanish.com/)
-[TorGuard](https://torguard.net/)
-[VyprVPN](https://get.vyprvpn.com/)
-[DNSleaktest](http://DNSleaktest.com)
-[BrowserLeaks](https://browserleaks.com/)
-[Check to see if your email has been leaked with](https://haveibeenpwned.com/)
-[VirusTotal-Analyze suspicious files and URL](https://www.virustotal.com/gui/home/upload)
-[The BIP39 (Mnemonic Recovery Seed Phrase) Wallet List](https://www.blockplate.com/blogs/blockplate/list-of-bip39-wallets-mnemonic-seed)
-[What is a Mnemonic Phrase and BIP39? (2021 Update)](https://privacypros.io/wallets/mnemonic-phrase)
-[Deference Between EAL 1-7 in Common Criteria Standard?](https://security.stackexchange.com/questions/77161/deference-between-eal-1-7-in-common-criteria-standard)
-[Evaluation Assurance Level - Wikipedia](https://en.wikipedia.org/wiki/Evaluation_Assurance_Level)
+
+
+
+
