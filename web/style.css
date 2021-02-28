@@ -1,0 +1,16 @@
+html {
+  font-size: 12px;
+}
+
+body {
+  background-color: #777;
+}
+
+.col-sm {
+  background-color: aquamarine;
+  font-size: 25px;
+}
+
+.row {
+  height: 200px;
+}
