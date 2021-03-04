@@ -1,16 +1,33 @@
 html {
-  font-size: 12px;
+  font-size: 16px;
 }
 
 body {
-  background-color: #777;
+  background-color: beige;
+}
+
+.container {
+  background-color: #999;
 }
 
 .col-sm {
   background-color: aquamarine;
   font-size: 25px;
 }
-
-.row {
-  height: 200px;
+.col {
+  border: blue;
+  border-width: .5px;
+  border-style: solid;
 }
+.row {
+  height: 100px;
+  background-color: #abc;
+  border: brown;
+  border-width: .5px;
+  border-style: solid;
+}
+ img{
+   width: 100px;
+   height: 100px;
+   background-color: black;
+ }
