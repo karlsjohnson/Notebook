@@ -1,25 +1,53 @@
 # Crypto
 
+
 ## Learn
 
 - Solidity programming language
 - [What is a Dapp? A Guide to Ethereum Dapps](https://www.freecodecamp.org/news/what-is-a-dapp-a-guide-to-ethereum-dapps/)
 - [Blockstream: Bitcoin and digital asset infrastructure](https://blockstream.com/)
+- [Filecoin and IPFS](https://protocol.ai/work/)
+- [Cardano tokens and smart contracts](https://developers.cardano.org/en/)
+
+## Coin List
+
+1. [Bitcoin (BTC)](https://bitcoin.org/en/)
+2. [Ethereum (ETH)](https://ethereum.org/en/)
+3. [Cardano (ADA)](https://cardano.org/)
+4. [Polkadot (DOT)](https://polkadot.network)
+5. [Chainlink (LINK)](https://chain.link/)
+6. [Cosmos (ATOM)](https://cosmos.network/)
+7. [Synthetix (SNX)](https://www.synthetix.io/)
+8. [Aave (AAVE)](https://aave.com/)
+10. [VeChain (VET)](https://www.vechain.org/)
+11. [Monero (XMR)](https://www.getmonero.org/)
+12. [Litecoin (LTC)](https://litecoin.org/)
+13. [Bitcoin Cash (BCH)](https://www.bitcoincash.org/)
+14. [Band Protocol (BAND)](https://bandprotocol.com/)
+15. [Compound (COMP)](https://compound.finance/governance/comp)
+16. [Dash (DASH)](https://www.dash.org/)
+17. [yearn.finance (YFI)](https://yearn.finance/)
+18. [Filecoin (FIL)](https://filecoin.io/)
+19. [Algorand (ALGO)](https://www.algorand.com/)
+20. [MakerDAO (MKR)](https://makerdao.com/en/)
+21. [Zilligq (ZIL)](https://www.zilliqa.com/)
+22. [Loopring (LRC)](https://loopring.org/)
+23. [Ren (REN)](https://renproject.io/)
+24. [Avalanche (AVAX)](https://www.avalabs.org/)
+25. [OMG Network (OMG)](https://omg.network/)
+26. [Numeraire (NMR)](https://erasure.world/)
+27. [Quant (QNT)](https://www.quant.network/)
 
 ## Coins
 
 ### Bitcoin (BTC)
 
 [Bitcoin.org](https://bitcoin.org/en/)
-[Github](https://github.com/bitcoin/bitcoin)
-[Bitcoin Forum](https://bitcointalk.org/)
+[CoinGecko-BTC](https://www.coingecko.com/en/coins/bitcoin)
 [r/Bitcoin](https://www.reddit.com/r/Bitcoin/)
 
-- Use: Digital Gold, Store of value
-- First cryptocurrency
-- Largest one
-- Creator: Satoshi Nakamoto
-- Created to allow “online payments to be sent directly from one party to another without going through a financial institution.”
+- First, Largest cryptocurrency, Creator: Satoshi Nakamoto
+- Digital Gold, Store of value
 - Introduced a digital decentralized ledger with miner (or validators) confirming the transactions.
 
 ### Ethereum (ETH)
@@ -30,8 +58,7 @@
 [Github](https://github.com/ethereum)
 
 - Use: Smart Contract Platform, Internet of Money
-- Acts as an infrastructure for most decentralized applications. 
-- Introduces smart contracts, which are like programs with specific procedures that, once deployed, no one can change.
+- Acts as an infrastructure for most decentralized applications.
 - **Introduction of Ethereum Virtual Machine**
   - Before Ethereum, most of the blockchains were primarily related to the transactions of network-supported cryptocurrencies. Ethereum’s creator Vitalik Buterin thought of changing that concept and took a step forward in creating a more enhanced blockchain that will allow its users to customize data over the Ethereum network with the help of the “Ethereum Virtual Machine or EVM”. Now with EVM, users can conduct a transaction with the help of smart contracts.
 - **Smart Contracts**
