@@ -3,11 +3,16 @@ html {
 }
 
 body {
-  background-color: beige;
+  background-color: #777;
 }
 
 .container {
-  background-color: #999;
+  background-color: #bbb;
+  box-shadow: 2px 0px 5px;
+  border-left: #ccc;
+  border-right: #aaa;
+  border-width: 0px 1px 0px 1px;
+  border-style: solid;
 }
 
 .col-sm {
