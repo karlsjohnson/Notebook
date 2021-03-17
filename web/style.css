@@ -5,34 +5,6 @@ html {
 body {
   background-color: #777;
 }
-
-.container {
-  background-color: #bbb;
-  box-shadow: 2px 0px 5px;
-  border-left: #ccc;
-  border-right: #aaa;
-  border-width: 0px 1px 0px 1px;
-  border-style: solid;
+.container-fluid {
+  padding: 0px;
 }
-
-.col-sm {
-  background-color: aquamarine;
-  font-size: 25px;
-}
-.col {
-  border: blue;
-  border-width: .5px;
-  border-style: solid;
-}
-.row {
-  height: 100px;
-  background-color: #abc;
-  border: brown;
-  border-width: .5px;
-  border-style: solid;
-}
- img{
-   width: 100px;
-   height: 100px;
-   background-color: black;
- }
