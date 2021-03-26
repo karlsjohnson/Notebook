@@ -78,12 +78,15 @@
 [Cardano Foundation](https://cardano.org/)
 [EMURGO](https://emurgo.io/)
 [IOHK](https://iohk.io/)
-[Cardano Reddit](https://www.reddit.com/r/cardano/)
-[Cardano (Whitepapers](https://iohk.io/en/research/library/authors/aggelos-kiayias/)
 [Cardano Roadmap](https://roadmap.cardano.org/en/)
-[Cardano Github Updates](https://cardanoupdates.com/)
-[Cardano Monetary Policy](https://docs.cardano.org/en/latest/explore-cardano/cardano-monetary-policy.html)
 
-#### Articles
+- 3rd Generation Blockchain
+- Token platform, smart contracts
 
-[Cardano Review by NKB](https://medium.com/@theNKBGroup/cardano-review-2d6a2b70b7c2)
+### Polkadot (DOT)
+
+- [Polkadot Network](https://polkadot.network/)
+
+- From one of the founders of Ethereum
+- Aims to be Ethereum 2.0 now
+- Polkadot is a scalable heterogeneous multi-chain technology
