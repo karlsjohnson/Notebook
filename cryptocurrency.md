@@ -59,6 +59,7 @@
 
 - Use: Smart Contract Platform, Internet of Money
 - Acts as an infrastructure for most decentralized applications.
+- Governance happens off-chain for 1.0 and 2.0
 - **Introduction of Ethereum Virtual Machine**
   - Before Ethereum, most of the blockchains were primarily related to the transactions of network-supported cryptocurrencies. Ethereum’s creator Vitalik Buterin thought of changing that concept and took a step forward in creating a more enhanced blockchain that will allow its users to customize data over the Ethereum network with the help of the “Ethereum Virtual Machine or EVM”. Now with EVM, users can conduct a transaction with the help of smart contracts.
 - **Smart Contracts**
@@ -71,6 +72,7 @@
   - Sharding – It is a form of data partitioning where large databases are kept in small manageable resources.
   - eWASM – Ethereum Web Assembly (eWASM) helps in faster execution of the codes.
   - Plasma and Raiden – Scaling solutions that can handle large volumes of transactions. [Read About Raiden]
+  - shift from Proof-of-Work (PoW) to Proof-of-Stake (PoS)
 
 
 ### Cardano (ADA)
@@ -81,7 +83,10 @@
 [Cardano Roadmap](https://roadmap.cardano.org/en/)
 
 - 3rd Generation Blockchain
-- Token platform, smart contracts
+- Token platform
+  - Native, you don't need to program on top of the blockchain like ETH
+- smart contracts
+- Governance happens on-chain
 
 ### Polkadot (DOT)
 
@@ -89,4 +94,17 @@
 
 - From one of the founders of Ethereum
 - Aims to be Ethereum 2.0 now
+- Governance happens on-chain
 - Polkadot is a scalable heterogeneous multi-chain technology
+  - Meaning you can have different chains doing differnt things
+- Uses parachains instead of shards for multichains
+- Created the substrate framework
+  - Substrate is an extensible, modular, and open-source framework for building blockchains.
+  - Written in Rust Language
+
+### Chainlink (LINK)
+
+- [Chainlink](https://chain.link/)
+
+- Connects off-chain data with on-chain smart contracts
+- Chainlink's decentralized oracle network provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain.
