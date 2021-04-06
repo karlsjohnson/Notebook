@@ -15,7 +15,7 @@
   - Use - 3rd Gen Platform
   - Purchase - Most - Binance.us
 - DOT 
-  - Invested 7K 
+  - Invested 10K 
   - Use - Eth 2.0 or 3rd Gen Platform
   - Purchase - Crypto.com
 - LINK 
@@ -23,7 +23,7 @@
   - Use - Connect off-chain with on-chain
   - Purchase - All - Gemini
 - FIL 
-  - Invested - 2.5K 
+  - Invested - 3.5K 
   - Use - IPSF File system
   - Purchase - Most - Gemini
 
@@ -42,7 +42,7 @@
   - Use - Inter-Blockchain Communication protocol
   - Purchase - Some - Binance
 - VET 
-  - Invest - 1K 
+  - Invest - .8K 
   - USe - Supply chain management
   - Purchase - BNB/CRO - Binance
 
@@ -66,7 +66,92 @@
 
 - XRP
 
-## Crypto - Micheal - Predictions
+## Future
+
+- UNI - Gemini - 2K
+- GRT - Gemini - 1K
+- ADA - Binance - 5K+
+- AAVE - Gemini - 2K
+- DOT - Crypto.com - 2K
+- ZIL - Binance - 2K
+- FIL - Gemini - 1K
+- ?BNB?
+- ?LTC?
+
+
+## Others
+
+### Crypto Tips
+
+- BTC 40%
+- ETH 28%
+- ADA 13%
+- DOT 3%
+- AAVE 2.3%
+- BNB 1.9%
+- KSM(PreDOT) 1.5%
+- LINK 1%
+- ORN 1%
+- UNI .8%
+- MATIC .7%
+- THETA
+- ATOM
+- QNT
+- SNX
+- XMR
+- UNFI
+- LTC
+- LUNA
+- DCR
+- STAKE
+- SUSHI
+- UMA
+- KAVA
+- SWAP
+- TRB
+- RUNE (THORCHAIN)
+- OMG
+- BAND
+- ALGO
+- DAO
+- ERG
+- SRM
+- ENJ
+- BAT
+- REN
+- HXRO
+- TOMO
+- SOL
+- ALPHA
+- GRT
+- XTZ
+- OM
+- KNC
+- DIA
+- AKRO
+- WNXM
+- PHA
+- AKT
+- FSW
+- ZRX
+- DOS
+- SXP
+- LINA
+- COVER
+- OCEAN
+- BID
+- BASED
+- EFX
+- ALPHA
+- MTA
+- KEEP
+- YFL
+- CREAM
+- YFUEL
+- OPT
+
+
+### Crypto - Micheal - Predictions
 
 - Peak high bull cycle prediction; 
   - Bitcoin to $350,000-450,000
