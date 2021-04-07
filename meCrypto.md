@@ -68,16 +68,16 @@
 
 ## Future
 
-- UNI - Gemini - 2K
-- GRT - Gemini - 1K
-- SOL
+- SOL - Binance - 4K - (R)
+- UNI - Gemini - 2K - (R)
+- BNB - Binance - ? - (R)
 - ADA - Binance - 5K+
 - AAVE - Gemini - 2K
-- DOT - Crypto.com - 2K
-- ZIL - Binance - 2K
-- FIL - Gemini - 1K
-- ?BNB?
-- ?LTC?
+- GRT - Gemini - 1K - (R)
+- Maybe
+  - ZIL - Binance - 2K
+  - DOT - Crypto.com - 2K
+  - LTC
 
 
 ## Others
