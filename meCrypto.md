@@ -70,6 +70,7 @@
 
 - UNI - Gemini - 2K
 - GRT - Gemini - 1K
+- SOL
 - ADA - Binance - 5K+
 - AAVE - Gemini - 2K
 - DOT - Crypto.com - 2K
