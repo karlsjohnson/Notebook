@@ -2,60 +2,60 @@
 
 ## Big Ones
 
-- BTC 
-  - Invested - 83K 
+- BTC
+  - Invested - 83K
   - Use - Digital Gold, Store of value
   - Purchase - All - Gemini
-- ETH 
+- ETH
   - Invested - 63K
   - Use - Platform (Smart contracts & tokiens)
   - Purchase - All - Gemini
-- ADA 
-  - Invested - 11K 
+- ADA
+  - Invested - 11K
   - Use - 3rd Gen Platform
   - Purchase - Most - Binance.us
-- DOT 
-  - Invested 10K 
+- DOT
+  - Invested 10K
   - Use - Eth 2.0 or 3rd Gen Platform
   - Purchase - Crypto.com
-- LINK 
-  - Invested - 6k 
+- LINK
+  - Invested - 6k
   - Use - Connect off-chain with on-chain
   - Purchase - All - Gemini
-- FIL 
-  - Invested - 3.5K 
+- FIL
+  - Invested - 3.5K
   - Use - IPSF File system
   - Purchase - Most - Gemini
 
 ## Second Tier
 
-- SNX 
-  - Invest - 2.6K 
+- SNX
+  - Invest - 2.6K
   - Use - Derivatives market
   - Purchase - Most - Gemini
-- AAVE 
-  - Invest - 2.5K 
+- AAVE
+  - Invest - 2.5K
   - Use - Money market protocol (lend and borrow)
   - Purchase - Most - Gemini
-- ATOM 
-  - Invest - 2.6K 
+- ATOM
+  - Invest - 2.6K
   - Use - Inter-Blockchain Communication protocol
   - Purchase - Some - Binance
-- VET 
-  - Invest - .8K 
+- VET
+  - Invest - .8K
   - USe - Supply chain management
   - Purchase - BNB/CRO - Binance
 
 ## Layer 2 ETH Solution
 
-- LRC 
-  - Invest - .5K 
+- LRC
+  - Invest - .5K
   - Purchase - Most - Gemini
-- ZIL 
+- ZIL
   - Invest 2K
   - Purchase - BNB/CRO - Binance
-- MATIC 
-  - Invest 1.5K 
+- MATIC
+  - Invest 1.5K
   - Purchase - Some - Binance
 - LTC
   - Invest variable
@@ -72,7 +72,7 @@
 - UNI - Gemini - 2K - (R)
 - BNB - Binance - ? - (R)
 - ADA - Binance - 5K+
-- AAVE - Gemini - 2K
+- AAVE/MAKER/COMPOUND - Gemini - 2K
 - GRT - Gemini - 1K - (R)
 - Maybe
   - ZIL - Binance - 2K
@@ -154,7 +154,7 @@
 
 ### Crypto - Micheal - Predictions
 
-- Peak high bull cycle prediction; 
+- Peak high bull cycle prediction;
   - Bitcoin to $350,000-450,000
   - Ethereum to $10,000-17,500
   - Polkadot to $250-350
