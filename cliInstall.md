@@ -23,19 +23,6 @@ Install **Zsh**
   - You may also need to force rebuild zcompdump: `rm -f ~/.zcompdump; compinit`
   - If you receive "zsh compinit: insecure directories" run this: `chmod go-w '/usr/local/share'`
 
-Install **Mosh**
-
-- [mosh:](https://mosh.org) `brew install mosh`
-  - Allow mosh through firewall
-  - `sudo /usr/libexec/ApplicationFirewall/socketfilterfw --add /usr/local/Cellar/mosh/1.3.2_10/bin/mosh-server`
-  - `sudo /usr/libexec/ApplicationFirewall/socketfilterfw --unblockapp /usr/local/Cellar/mosh/1.3.2_10/bin/mosh-server`
-  - [Link](https://github.com/blinksh/blink/issues/11)
-
-Install **Firefox**
-
-- [Firefox](https://www.mozilla.org/en-US/firefox/download/) + AppSupp
-  - ==How to Install== With brew
-
 Install **fzf**
 
 - **fzf** `brew install fzf`
@@ -74,10 +61,6 @@ Instal **Tmux**
 
 Install **Vim**
 
-- Install **VIM**
-  - Install `brew install vim`
-  - Link .vim `ln -s ~/Documents/Code/Root/vim/ ~/.vim`
-  - Link .vimrc `ln -s ~/Documents/Code/Root/vim/vimrc ~/.vimrc`
 - Install **Neovim**
   - Install `brew install neovim`
   - Link Config Folder
