@@ -70,6 +70,11 @@ Install **Vim**
 - Install Github CLI
   - brew install gh
 
+Install **Node**
+
+- Install Node Package manager
+
+
 Install and Setup **Ruby & Gem**
 
 - Setup RubyGems
