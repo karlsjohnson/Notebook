@@ -73,13 +73,20 @@ Install **Vim**
 Install **Node**
 
 - Install Node Package manager
-- Add to zshrc fil
+  - `brew install nvm`
+- Add to .zshrc to setup nvm
 
 ```bash
 export NVM_DIR="$HOME/.nvm"
 [ -s "/usr/local/opt/nvm/nvm.sh" ] && . "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
 [ -s "/usr/local/opt/nvm/etc/bash_completion.d/nvm" ] && . "/usr/local/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
 ```
+
+- Install node `nvm install node`
+- Install version `nvm install v9.10.0`
+- List versions `nvm ls`
+- Switch to version `nvm use v9.10.0`
+- Add a .nvmrc to set version per project
 
 Install and Setup **Ruby & Gem**
 
