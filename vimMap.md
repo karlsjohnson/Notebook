@@ -5,33 +5,28 @@
 - With Neovim Plugin, VSCode acts normal in insert mode
 
 | Action                          | VimOrig  | NeoVim:N | Neovim:I | VSCode |
-| ------------------------------- | :------: | :------: | :------: | :----: |
-| Move Down/Up                    |   j/k    |   j/k    |   ↓/↑    |  ↓/↑   |
-| Move Left/Right                 |   h/l    |   h/l    |   ←/→    |  ←/→   |
-| Move Down/Up 1/2 Page           |  ^d/\^u  |   J/K    |    -     | ^d/\^u |
-| Move Down/Up Page               |  ^f/\^b  |  ^f/\^b  |    -     | ^f/\^b |
-| Move First/Last Character       |   ^/$    |   H/L    |  ⌘←/⌘→   | ⌘←/⌘→  |
-| Move Middle on Line             |    gm    |    M     |    -     |   -    |
-| Move Next/Previous word (token) |   w/b    |   w/b    |  ⌥→/⌥←   | ⌥→/⌥←  |
-| Move Next/Prev word (no token)  |   W/B    |   W/B    |  ⌥→/⌥←   | ⌥→/⌥←  |
-| indent                          |  << ^d   |    ⌥,    |    ⌥,    |   ⌥,   |
-| outdent                         |  >> ^t   |    ⌥.    |    ⌥.    |   ⌥.   |
-| undo                            |    u     |    ⌥z    |    ⌥z    |   ⌥z   |
-| redo                            |    ^r    |    ⌥Z    |    ⌥Z    |   ⌥Z   |
-| Scroll Page Top/Bottom          |   gg/G   |   gg/G   |
-| Scroll to Top/Bottom/Middle     | z t/b/.  | z t/b/.  |
-| Move to On/Before(c))           | f/t (c)  | f/t (c)  |
-| Repeat F/T (forward/reverse)    |   ;/,    |   ;/,    |
-| Goto Function Start/Next        |  [[//]]  |  [[//]]  |
-| Goto Block Start/End            |  [{//}]  |  [{//}]  |
-| Move around Panes               | ^h/j/k/l | ^h/j/k/l |
-
-## Learn
-
-| Action          | Key |
-| --------------- | --- |
-| NerdTree Toggle | ⌥b  |
-| NerdTree File   | ⌥⇧b |
+|---------------------------------|:--------:|:--------:|:--------:|:------:|
+| Move Down/Up                    | j/k      | j/k      | ↓/↑      | ↓/↑    |
+| Move Left/Right                 | h/l      | h/l      | ←/→      | ←/→    |
+| Move Down/Up 1/2 Page           | ^d/\^u   | J/K      | -        | ^d/\^u |
+| Move Down/Up Page               | ^f/\^b   | ^f/\^b   | -        | ^f/\^b |
+| Move First/Last Character       | ^/$      | H/L      | ⌘←/⌘→    | ⌘←/⌘→  |
+| Move Middle on Line             | gm       | M        | -        | -      |
+| Move Next/Previous word (token) | w/b      | w/b      | ⌥→/⌥←    | ⌥→/⌥←  |
+| Move Next/Prev word (no token)  | W/B      | W/B      | ⌥→/⌥←    | ⌥→/⌥←  |
+| indent                          | << ^d    | ⌥,       | ⌥,       | ⌥,     |
+| outdent                         | >> ^t    | ⌥.       | ⌥.       | ⌥.     |
+| undo                            | u        | ⌥z       | ⌥z       | ⌥z     |
+| redo                            | ^r       | ⌥Z       | ⌥Z       | ⌥Z     |
+| Scroll Page Top/Bottom          | gg/G     | gg/G     | gg/G     | ⌘↑/⌘↓  |
+| Scroll to Top/Bottom/Middle     | z t/b/.  | z t/b/.  |          |        |
+| Move to On/Before(c))           | f/t (c)  | f/t (c)  |          |        |
+| Repeat F/T (forward/reverse)    | ;/,      | ;/,      |          |        |
+| Goto Function Start/Next        | [[//]]   | [[//]]   |          |        |
+| Goto Block Start/End            | [{//}]   | [{//}]   |          |        |
+| Move around Panes               | ^h/j/k/l | ^h/j/k/l |          |        |
+| NerdTree Toggle                 |          | ⌥b       |          |        |
+| NerdTree File                   |          | ⌥⇧b      |          |        |
 
 ## Vim Start
 
@@ -92,7 +87,7 @@
 ## Vim View
 
 | Action                  | Key      |
-| ----------------------- | -------- |
+|-------------------------|----------|
 | **Tabs**                |          |
 | Delete Tab              | d T      |
 | New Tab                 | g N      |
