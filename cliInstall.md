@@ -72,7 +72,7 @@ Install **Vim**
 
 Install **Node**
 
-- Install Node Package manager
+- Install Node Package manager, [Link](https://betterprogramming.pub/how-to-change-node-js-version-between-projects-using-nvm-3ad2416bda7e)
   - `brew install nvm`
 - Add to .zshrc to setup nvm
 
