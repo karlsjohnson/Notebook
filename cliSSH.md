@@ -26,7 +26,9 @@
   - start ssh-agent in background `eval "$(ssh-agent -s)"`
   - add below to ~/.ssh/config
   - add to agent `ssh-add -K ~/.ssh/id_ed25519`
+  - add to agent `ssh-add -K ~/.ssh/id_rsa`
   - add ed25519.pub to github->setting->ssh->new
+  - add other keys to agent too. (reearch - adding passwords?)
 
 >Host *
 >  AddKeysToAgent yes
