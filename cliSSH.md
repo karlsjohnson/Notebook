@@ -28,9 +28,12 @@
   - add to agent `ssh-add -K ~/.ssh/id_ed25519`
   - add to agent `ssh-add -K ~/.ssh/id_rsa`
   - add ed25519.pub to github->setting->ssh->new
-  - add other keys to agent too. (reearch - adding passwords?)
+  - add other keys to agent too.
 
 >Host *
 >  AddKeysToAgent yes
 >  UseKeychain yes
 >  IdentityFile ~/.ssh/id_ed25519
+>  IdentityFile ~/.ssh/id_rsa
+
+(reearch - adding passwords?)
