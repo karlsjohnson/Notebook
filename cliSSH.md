@@ -6,7 +6,7 @@
   - goto to folder: `cd ~/.ssh`
   - generate DSA key: `ssh-keygen -t dsa` (needed?)
   - generate RSA key: `ssh-keygen -t rsa`
-  - Copy to server: `scp ~/.ssh/id_rsa.pub user@server:`
+    - Copy to server: `scp ~/.ssh/id_rsa.pub user@server:`
   - Create if needed: `mkdir -p ~/.ssh`
   - Create new file: `touch ~/.ssh/authorized_keys`
   - Copy to new file: `cat ~/id_rsa.pub >> ~/.ssh/authorized_keys`
