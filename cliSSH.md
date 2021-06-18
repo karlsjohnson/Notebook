@@ -4,7 +4,6 @@
   - Should be installed with Ubuntu
 - **On Client RSA setup**
   - goto to folder: `cd ~/.ssh`
-  - generate DSA key: `ssh-keygen -t dsa` (needed?)
   - generate RSA key: `ssh-keygen -t rsa`
     - Copy to server: `scp ~/.ssh/id_rsa.pub user@server:`
   - Create if needed: `mkdir -p ~/.ssh`
@@ -22,3 +21,14 @@
   - Forward ports:
   - SSH: WAN TCP port 22 to LAN TCP port 22
   - SSH: WAN UDP port 60000-60010 to LAN UDP port 60000-60010
+- **Github**
+  - generate `ssh-keygen -t ed25519 -C "your_email@example.com"`
+  - start ssh-agent in background `eval "$(ssh-agent -s)"`
+  - add below to ~/.ssh/config
+  - add to agent `ssh-add -K ~/.ssh/id_ed25519`
+  - add ed25519.pub to github->setting->ssh->new
+
+>Host *
+>  AddKeysToAgent yes
+>  UseKeychain yes
+>  IdentityFile ~/.ssh/id_ed25519

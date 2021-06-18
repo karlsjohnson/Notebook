@@ -88,6 +88,29 @@ export NVM_DIR="$HOME/.nvm"
 - Switch to version `nvm use v9.10.0`
 - Add a .nvmrc to set version per project
 
+Install **ZeroTier**
+
+- Install ZeroTier Software
+- Setup Network
+- Setup IPs
+- Allow ZeroTier through firewall
+- edit /etc/ssh/sshd_config
+  - Uncomment ListenAddress 0.0.0.0
+  - Change ip to address of server from zerotier
+- Restart SSH (resart mac)
+ Linux (Snap)
+sudo snap install zerotier-one
+sudo snap connect zerotier-one:network-control
+sudo zerotier-one.zerotier-cli info
+200 info ******** 1.4.6 ONLINE
+sudo zerotier-one.zerotier-cli join *******
+200 join OK
+sudo zerotier-one.zerotier-cli status *******
+sudo zerotier-one.zerotier-cli leave *******
+
+
+
+
 Install and Setup **Ruby & Gem**
 
 - Setup RubyGems
